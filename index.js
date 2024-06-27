@@ -26,5 +26,5 @@ const makeCommit = async (n) => {
 
 // Execute the function
 (async () => {
-    await makeCommit(500);
+    await makeCommit(300);
 })();
